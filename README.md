@@ -1,2 +1,2 @@
 # DS_IBM
-For exploring data science topics.
+For exploring Data Science topics.
